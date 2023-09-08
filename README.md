@@ -2,7 +2,11 @@
 
 ## Mobile app
 
+Banner
+
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/6c04c984-449a-421d-b679-989c1deb55f5" width="1200">
+
+Screenshots
 
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/d7c8326c-7a23-4bf6-8fc7-d6edb1aca3ec" width="300">
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/715790f8-5de1-450f-9fa3-a2016d1ddb9a" width="300">
