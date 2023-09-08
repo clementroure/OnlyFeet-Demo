@@ -2,8 +2,8 @@
 
 ## Mobile app
 
-<img src="https://github.com/clementroure/Social-Media/assets/13381610/d3f9e9a4-5bf8-46af-ac20-16aa8fbbbae0" width="1000">
-
+<img src="https://github.com/clementroure/Social-Media/assets/13381610/6c04c984-449a-421d-b679-989c1deb55f5" width="1200">
+<img src="https://github.com/clementroure/Social-Media/assets/13381610/d3f9e9a4-5bf8-46af-ac20-16aa8fbbbae0" width="300">
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/6209ae46-4681-4317-98d0-82db178811ba" width="300">
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/b970f0f8-c014-4fef-8013-a6a3cdcad4a6" width="300">
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/b970f0f8-c014-4fef-8013-a6a3cdcad4a6" width="300">
