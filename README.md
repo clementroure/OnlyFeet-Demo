@@ -6,7 +6,7 @@
 
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/d7c8326c-7a23-4bf6-8fc7-d6edb1aca3ec" width="300">
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/715790f8-5de1-450f-9fa3-a2016d1ddb9a" width="300">
-<img src="https://github.com/clementroure/Social-Media/assets/13381610/b970f0f8-c014-4fef-8013-a6a3cdcad4a6" width="300">
+<img src="https://github.com/clementroure/Social-Media/assets/13381610/afb32fe4-8dd0-40cf-b860-4c7b55e80a7e" width="300">
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/b970f0f8-c014-4fef-8013-a6a3cdcad4a6" width="300">
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/6209ae46-4681-4317-98d0-82db178811ba" width="300">
 <img src="https://github.com/clementroure/Social-Media/assets/13381610/d3f9e9a4-5bf8-46af-ac20-16aa8fbbbae0" width="300">
